@@ -115,7 +115,7 @@ div[class*="typeWindows-"]>div[role="button"] {
 }
 
 div[class*="typeWindows-"]::after {
-	content: 'Discord';
+	content: 'DevilzCord';
 	font-weight: 5000;
 	line-height: 31px;
 	color: var(--text-muted);
